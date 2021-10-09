@@ -1,2 +1,1 @@
-# USC-CSCI-561-Artificial-Intelligence
-Intelligent Agents
+# USC-CSCI-561-Artificial-Intelligence : Agents
